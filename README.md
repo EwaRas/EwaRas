@@ -1,6 +1,6 @@
-## Ewa Rasala (Full Stack Developer)
+## Ewa Rasala (JS Developer)
 
-Hi there! I'm a Full Stack Developer based in Barcelona🌴. 
+Hi there! I'm a JavaScript developer based in Barcelona🌴. 
 
 I am passionate about clean code and all things JavaScript. I am a great fan of solid products that simplify complex tasks and processes, make people’s lives easier and above all are user-friendly. I enjoy fully immersing myself in new projects and technologies. 
 
